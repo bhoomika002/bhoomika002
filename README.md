@@ -194,13 +194,11 @@ Dynamic system for converting PowerPoint presentations into responsive and acces
 </p>
 
 ---
-
-# 🐍 Contribution Snake
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhoomika002/snake/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/bhoomika002/snake/output/github-contribution-grid-snake-dark.svg" alt="AI Snake Animation" />
 </p>
-
 ---
 
 # 🌐 Connect With Me
