@@ -17,6 +17,15 @@
 <h3 align="center">
 AI Backend Engineer • FastAPI Developer • Workflow Automation Builder
 </h3>
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,mysql,git,github,streamlit,vscode,linux" />
+
+</p>
 
 <p align="center">
 Building AI-powered backend systems, automation workflows, and scalable applications.
