@@ -1,18 +1,30 @@
 <p align="center">
   <img src="banner.png" />
 </p>
-<h1 align="center">Hi 👋, I'm Bhoomika</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Workflow+Engineer;Backend+Automation+Engineer;Enterprise+AI+Systems;FastAPI+%7C+Automation+%7C+AI+Workflows;Building+Intelligent+Workflow+Systems" />
-</p>
+<h1 align="center">
+  Hi 👋, I'm Bhoomika
+</h1>
 
 <h3 align="center">
-AI Workflow Engineer • Backend Automation • Enterprise AI Systems
+  AI Workflow Engineer • Backend Automation • Enterprise AI Systems
 </h3>
 
 <p align="center">
-Building AI-powered backend systems, intelligent automation workflows, and scalable processing pipelines.
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+Intelligent+Workflow+Systems;FastAPI+•+AI+Workflows+•+Automation;Enterprise+Backend+Engineering;Scalable+AI-Assisted+Systems;Workflow+Orchestration+%26+Automation+Pipelines" />
+</p>
+
+<p align="center">
+  <i>
+    Building AI-powered backend systems, intelligent automation workflows,
+    and scalable enterprise processing pipelines.
+  </i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Workflow%20Engineering-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Enterprise%20AI%20Systems-111827?style=for-the-badge" />
 </p>
 
 ---
