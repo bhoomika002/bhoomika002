@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💼 Junior Engineer Intern at Mindsprint (CAIO Team)
 - 🤖 Building AI-assisted backend workflows and automation systems
