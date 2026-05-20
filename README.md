@@ -2,6 +2,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI+Backend+Engineer;FastAPI+Developer;Workflow+Automation+Builder;Building+AI-Powered+Systems" />
 </p>
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhoomika002&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika002&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika002&theme=tokyonight&hide_border=true" />
+</p>
 <h3 align="center">
 AI Backend Engineer • FastAPI Developer • Workflow Automation Builder
 </h3>
