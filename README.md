@@ -75,3 +75,11 @@ Dynamic PPT-to-web conversion system.
 
 - LinkedIn
 - LeetCode
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhoomika002/snake/output/github-contribution-grid-snake.svg" />
+</p>
