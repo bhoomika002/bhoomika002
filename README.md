@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhoomika</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI+Backend+Engineer;FastAPI+Developer;Workflow+Automation+Builder;Building+AI-Powered+Systems" />
+</p>
 <h3 align="center">
 AI Backend Engineer • FastAPI Developer • Workflow Automation Builder
 </h3>
