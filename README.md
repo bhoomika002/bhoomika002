@@ -105,15 +105,6 @@ AI-powered multilingual lecture intelligence platform.
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhoomika002&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
-
----
 
 ## 📚 Currently Learning
 
