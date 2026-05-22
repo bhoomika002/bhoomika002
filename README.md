@@ -16,7 +16,6 @@
 
 ## 👋 About Me
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=bhoomika002&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
 I'm a **Junior Engineer Intern at Mindsprint (CAIO Team)** with a strong interest in:
 
@@ -89,9 +88,6 @@ AI-powered multilingual lecture intelligence platform.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bhoomika002&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika002&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
